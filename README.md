@@ -7,6 +7,7 @@
 ## 🚩 목표
 1. kaggle, DACON 등의 데이터 경진대회 1%이내의 성적
 2. 딥러닝을 활용한 토이 프로젝트 완성
+3. 취업 성공!
 
 ## :dancers: Member (Collaborator)
 <img width="20%" src="https://avatars.githubusercontent.com/u/39001244?v=4"/> [Muneop](https://github.com/Muneop)
