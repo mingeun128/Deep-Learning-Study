@@ -9,9 +9,7 @@
 2. 딥러닝을 활용한 토이 프로젝트 완성
 
 ## :dancers: Member (Collaborator)
-<img width="20%" src="https://avatars.githubusercontent.com/u/39001244?v=4"/>
-
-[Muneop](https://github.com/Muneop)
+<img width="20%" src="https://avatars.githubusercontent.com/u/39001244?v=4"/> [Muneop](https://github.com/Muneop)
 
 ## :memo: 진행 내용
  - 1주에 한 번 이론/실습 공부 내용을 발표한다.
