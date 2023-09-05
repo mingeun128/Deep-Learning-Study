@@ -2,14 +2,14 @@
 
 
 ## 스터디 소개
-AI Researcher / Engineer가 되기 위한 역량을 키우기 위해 DL에 대한 이론~실습을 기초부터 탄탄하게 다지고자 뭉쳤다!
+<b>AI Researcher / Engineer가 되기 위한 역량</b>을 키우기 위해 DL에 대한 이론~실습을 기초부터 탄탄하게 하고자 뭉쳤다!
 
 ## 목표
 1. kaggle, DACON 등의 데이터 경진대회 1%이내의 성적
 2. 딥러닝을 활용한 토이 프로젝트 완성
 
 ## Member (Collaborator)
-<img width="30%" src="https://avatars.githubusercontent.com/u/39001244?v=4"/>
+<img width="20%" src="https://avatars.githubusercontent.com/u/39001244?v=4"/>
 
 [Muneop](https://github.com/Muneop)
 
@@ -20,17 +20,22 @@ AI Researcher / Engineer가 되기 위한 역량을 키우기 위해 DL에 대�
 ### 진행 교재
  - 이론
 
-    <img width="30%" src="https://www.hanbit.co.kr/data/books/B8475831198_l.jpg"/>
+    <img width="20%" src="https://www.hanbit.co.kr/data/books/B8475831198_l.jpg"/>
 
 
  - 실습
 
-   <img width="30%" src="https://wikidocs.net/images//book/1_t6hCM90evdnlPw4l9VK3AQ.png"/>
+   [wikidocs link](https://wikidocs.net/book/2788)
 
-   [wikidocs](https://wikidocs.net/book/2788)
+   <img width="20%" src="https://wikidocs.net/images//book/1_t6hCM90evdnlPw4l9VK3AQ.png"/>
 
 
  - 논문
 
-    [논문 목록]()
+    [논문 목록](https://github.com/mingeun128/Deep-Learning-Study/tree/main/paper)
 
+## 진행 상태
+|일자|내용|설명|
+|------|---|---|
+|2023.09.04|스터디 계획|교재 선정, 만남 주기, 계획 등 스터디 진행에 대한 회의를 함|
+|2023.09.11|-|-|
