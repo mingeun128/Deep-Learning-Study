@@ -24,9 +24,7 @@
 
  - 실습
 
-   [wikidocs link](https://wikidocs.net/book/2788)
-
-   <img width="20%" src="https://wikidocs.net/images//book/1_t6hCM90evdnlPw4l9VK3AQ.png"/>
+   <img width="20%" src="https://wikidocs.net/images//book/1_t6hCM90evdnlPw4l9VK3AQ.png"/> [wikidocs link](https://wikidocs.net/book/2788)
 
 
  - 논문
